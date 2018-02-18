@@ -9,13 +9,13 @@ body {
 	padding: 20 0 0 0;
 }
 
-.nav-home {
+.navhome {
 	width: 10%;
 	float: left;
 	text-align: center;
 }
 
-.nav-home a{
+.navhome a{
 	color: #fff;
 	text-decoration: none;
 	font-family: Helvetica;
@@ -24,14 +24,11 @@ body {
 	text-transform: uppercase;
 }
 
-.nav-wrapper {
-	width: 90%;
-	float: right;	
-}
-
 .navbar {
 	margin: 0;	
 	padding: 0;
+	width: 90%;
+	float: right;
 }
 
 .navbar-item {
